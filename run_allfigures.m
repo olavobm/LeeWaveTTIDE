@@ -52,7 +52,7 @@ run(fullfile(paper_directory(), 'figures', 'makefig_08.m'))
 
 %% Fig. 9 - knife-edge scattering setup
 
-% % % run(fullfile(paper_directory(), 'figures', 'makefig_09.m'))
+run(fullfile(paper_directory(), 'figures', 'makefig_09.m'))
 
 
 %% Fig. 10  - scaling of epsilon with velocity
